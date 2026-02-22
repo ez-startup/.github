@@ -1,0 +1,36 @@
+{
+  "organization": "EZ Startup",
+  "email": "contact@ez-startup.com",
+  "website": "https://www.ez-startup.com",
+  "support": "https://support.ez-startup.com",
+  "tel": [
+    {
+      "contactType": "office",
+      "tel": "+85589555201"
+    },
+    {
+      "contactType": "mobile",
+      "tel": "+85589555201"
+    }
+  ],
+  "socialMediaProfile": [
+    {
+      "name": "Facebook",
+      "icon": "FaFacebook",
+      "url": "https://fb.me/ez-startup",
+      "className": "text-blue-600 hover:text-blue-700"
+    },
+    {
+      "name": "Telegram",
+      "icon": "FaTelegram",
+      "url": "https://t.me/ez-startup",
+      "className": "text-sky-500 hover:text-sky-600"
+    },
+    {
+      "name": "YouTube",
+      "icon": "FaYoutube",
+      "url": "https://youtu.be/ez-startup",
+      "className": "text-red-600 hover:text-red-700"
+    }
+  ]
+}

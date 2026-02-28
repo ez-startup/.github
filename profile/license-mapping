@@ -19,7 +19,7 @@
           ]
         }
       ],
-      "businessNames": [
+      "businessIds": [
         "44461a78-c0cf-4a50-bbb7-9b1805aaex01",
         "478dfa79-4b30-473f-9b31-5ffa9b93ex02"
       ],
@@ -56,7 +56,7 @@
           ]
         }
       ],
-      "businessNames": [
+      "businessIds": [
         "b9900190-2e49-4c27-8ef5-22aa2753ex01"
       ],
       "license": {

@@ -4,21 +4,26 @@
       "email": "admin@example.com",
       "fullName": "Admin User",
       "roles": ["Owner"],
-      "contacts": [{
-        "person": "Kuth",
-        "title": "owner"
-          "contact":[
-            { 
+      "contacts": [
+        {
+          "name": "Kuth",
+          "title": "owner",
+          "contact": [
+            {
               "kind": "phone",
               "key": "+855 89555 201"
             },
-            { 
+            {
               "kind": "facebook",
               "key": "fb.me/kuthchi"
-            },
-          ],
-      }],
-      "businessNames": ["44461a78-c0cf-4a50-bbb7-9b1805aaex01", "478dfa79-4b30-473f-9b31-5ffa9b93ex02"],
+            }
+          ]
+        }
+      ],
+      "businessNames": [
+        "44461a78-c0cf-4a50-bbb7-9b1805aaex01",
+        "478dfa79-4b30-473f-9b31-5ffa9b93ex02"
+      ],
       "license": {
         "licenseKey": "LIC-ENT-ADMIN-CHANGE-ME-001",
         "plan": "Enterprise",
@@ -37,21 +42,25 @@
       "email": "sysadmin@example.com",
       "fullName": "System Administrator",
       "roles": ["System Admin"],
-            "contacts": [{
-        "person": "David Walter",
-        "title": "owner"
-          "contact":[
-            { 
+      "contacts": [
+        {
+          "name": "David Walter",
+          "title": "owner",
+          "contact": [
+            {
               "kind": "phone",
               "key": "+855 99555 201"
             },
-            { 
+            {
               "kind": "facebook",
               "key": "fb.me/kuthchi"
-            },
-          ],
-      }],      
-      "businessNames": ["b9900190-2e49-4c27-8ef5-22aa2753ex01"],
+            }
+          ]
+        }
+      ],
+      "businessNames": [
+        "b9900190-2e49-4c27-8ef5-22aa2753ex01"
+      ],
       "license": {
         "licenseKey": "LIC-PRO-SYSADMIN-CHANGE-ME-002",
         "plan": "Professional",

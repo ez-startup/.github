@@ -74,7 +74,7 @@
       }
     },
     {
-      "email": "sysadmin@example.com",
+      "email": "admin@example.com",
       "fullName": "System Administrator",
       "contacts": [
         {

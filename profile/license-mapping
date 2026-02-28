@@ -72,6 +72,42 @@
         "startsOn": "2026-01-01",
         "expiresOn": "2027-01-01"
       }
+    },
+    {
+      "email": "sysadmin@example.com",
+      "fullName": "System Administrator",
+      "contacts": [
+        {
+          "name": "Kuth Chi",
+          "title": "owner",
+          "contact": [
+            {
+              "kind": "phone",
+              "key": "+855 99555 201"
+            },
+            {
+              "kind": "facebook",
+              "key": "fb.me/kuthchi"
+            }
+          ]
+        }
+      ],
+      "businessIds": [
+        "74d180c8-8381-4467-92d5-291d2fc26414"
+      ],
+      "license": {
+        "licenseKey": "LIC-PRO-SYSADMIN-CHANGE-ME-003",
+        "plan": "Professional",
+        "status": "Active",
+        "maxBusinesses": 1,
+        "maxBranchesPerBusiness": 5,
+        "maxEmployees": 50,
+        "allowAdvancedReporting": true,
+        "allowMultiCurrency": true,
+        "allowIntegrations": true,
+        "startsOn": "2026-01-01",
+        "expiresOn": "2027-01-01"
+      }
     }
   ]
 }

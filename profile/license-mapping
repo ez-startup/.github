@@ -3,7 +3,6 @@
     {
       "email": "admin@example.com",
       "fullName": "Admin User",
-      "roles": ["Owner"],
       "contacts": [
         {
           "name": "Kuth",
@@ -41,7 +40,6 @@
     {
       "email": "sysadmin@example.com",
       "fullName": "System Administrator",
-      "roles": ["System Admin"],
       "contacts": [
         {
           "name": "David Walter",
